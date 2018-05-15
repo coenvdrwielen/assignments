@@ -7,3 +7,5 @@ assigment 3.https://github.com/coenvdrwielen/assignments/blob/master/assignment3
 assigment 4. https://github.com/coenvdrwielen/assignments/blob/master/assignment4.ipynb
 
 assigment 5. http://localhost:8888/notebooks/Documents/Graded_assignment1.ipynb
+
+assigment 6. https://github.com/coenvdrwielen/assignments/blob/master/Graded_assignment_2.ipynb
