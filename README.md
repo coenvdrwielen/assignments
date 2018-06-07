@@ -9,3 +9,7 @@ assigment 4. https://github.com/coenvdrwielen/assignments/blob/master/assignment
 assigment 5. https://github.com/coenvdrwielen/assignments/blob/master/Graded_assignment1.ipynb
 
 assigment 6. https://github.com/coenvdrwielen/assignments/blob/master/Graded_assignment_2.ipynb
+
+pyton assignment: https://github.com/coenvdrwielen/assignments/blob/master/exam_june_7_2018.ipynb
+
+R assignment: https://github.com/coenvdrwielen/assignments/blob/master/Exam_student.ipynb
